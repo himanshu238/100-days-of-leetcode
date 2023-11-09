@@ -35,5 +35,6 @@ public class LastLength {
         int length = lengthOflastWord(s);
 
         System.out.println("Length: " + length);
+        sc.close();
     }
 }
